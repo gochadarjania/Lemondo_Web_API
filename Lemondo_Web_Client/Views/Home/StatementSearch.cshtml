@@ -1,0 +1,27 @@
+﻿@model List<StatementViewModel>;
+@{
+    ViewData["Title"] = "StatementSearch";
+}
+
+@foreach (var item in Model)
+{
+    <div class="card" style="width: 18rem; float:left; margin:7px;">
+        <img src="@item.ImageURL" class="card-img-top" alt="@item.ImageTitle">
+        <div class="card-body">
+            <h5 class="card-title">@item.Title</h5>
+            <input type="hidden" asp-for="@item.Id" />
+
+            <a asp-controller="Home" asp-action="DeleteStatementById" asp-route-id="@item.Id">
+            <button type="button" class="btn btn-danger">Delete</button></a>
+
+            <a asp-controller="Home" asp-action="StatementDetail" asp-route-id="@item.Id">
+                <button type="button" class="btn btn-info">Details</button>
+            </a>
+
+            <a asp-controller="Home" asp-action="UpdateStatement" asp-route-id="@item.Id">
+                <button type="button" class="btn btn-info">Edit</button>
+            </a>
+        </div>
+    </div>
+
+}

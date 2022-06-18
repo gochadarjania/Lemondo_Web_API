@@ -1,0 +1,15 @@
+﻿@model StatementViewModel
+@{
+    ViewData["Title"] = "AddStatement";
+}
+@if (@Model.ErrrorMessage.Count == 0)
+{
+    <h1> @Model.Title Added successfully</h1>
+}else
+{
+    @foreach (var item in @Model.ErrrorMessage)
+    {
+        <h1 style="color:red;">@item</h1>
+    }
+}
+

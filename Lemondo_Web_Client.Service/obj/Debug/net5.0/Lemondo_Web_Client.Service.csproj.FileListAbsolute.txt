@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\bin\Debug\net5.0\Lemondo_Web_Client.Service.deps.json
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\bin\Debug\net5.0\Lemondo_Web_Client.Service.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\bin\Debug\net5.0\Lemondo_Web_Client.Service.pdb
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\Lemondo_Web_Client.Service.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\Lemondo_Web_Client.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\Lemondo_Web_Client.Service.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\Lemondo_Web_Client.Service.AssemblyInfo.cs
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\Lemondo_Web_Client.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\Lemondo_Web_Client.Service.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\refint\Lemondo_Web_Client.Service.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\Lemondo_Web_Client.Service.pdb
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_Client.Service\obj\Debug\net5.0\ref\Lemondo_Web_Client.Service.dll

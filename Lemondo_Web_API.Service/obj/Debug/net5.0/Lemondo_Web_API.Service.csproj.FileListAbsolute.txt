@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\bin\Debug\net5.0\Lemondo_Web_API.Service.deps.json
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\bin\Debug\net5.0\Lemondo_Web_API.Service.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\bin\Debug\net5.0\Lemondo_Web_API.Service.pdb
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\bin\Debug\net5.0\Lemondo_Web_API.Data.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\bin\Debug\net5.0\Lemondo_Web_API.Domain.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\bin\Debug\net5.0\Lemondo_Web_API.Data.pdb
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\bin\Debug\net5.0\Lemondo_Web_API.Domain.pdb
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.AssemblyInfo.cs
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.csproj.CopyComplete
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\refint\Lemondo_Web_API.Service.dll
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\Lemondo_Web_API.Service.pdb
+C:\Users\user\source\repos\Lemondo_Web_API\Lemondo_Web_API.Service\obj\Debug\net5.0\ref\Lemondo_Web_API.Service.dll

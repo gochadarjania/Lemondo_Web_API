@@ -1,0 +1,16 @@
+﻿@model StatementViewModel;
+@{
+    ViewData["Title"] = "Detail Page";
+}
+
+<div class="card" style="width: 18rem;">
+    <input type="hidden" asp-for="@Model.Id" />
+    <img class="card-img-top" src="@Model.ImageURL" alt="@Model.ImageTitle">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">@Model.StatementDetail.Description</p>
+        <a asp-controller="Home" asp-action="UpdateStatement" asp-route-id="@Model.Id">
+            <button type="button" class="btn btn-info">Edit</button>
+        </a>
+    </div>
+</div>

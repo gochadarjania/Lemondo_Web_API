@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lemondo_Web_API", "Lemondo_Web_API\Lemondo_Web_API.csproj", "{7764D7B1-4060-49A4-9B96-0E6E8C739F40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lemondo_Web_API.Domain", "Lemondo_Web_API.Domain\Lemondo_Web_API.Domain.csproj", "{CEF2EAEF-5B9A-4C4D-ACAC-05299E925868}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lemondo_Web_API.Data", "Lemondo_Web_API.Data\Lemondo_Web_API.Data.csproj", "{C4495265-218B-4E78-BEDD-507E8BB2B7C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lemondo_Web_API.Service", "Lemondo_Web_API.Service\Lemondo_Web_API.Service.csproj", "{3FBDEFDA-1409-45CB-A97B-89C0B00D3FCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lemondo_Web_Client", "Lemondo_Web_Client\Lemondo_Web_Client.csproj", "{B3AE9425-193C-4524-87E2-77E47494CB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lemondo_Web_Client.Service", "Lemondo_Web_Client.Service\Lemondo_Web_Client.Service.csproj", "{7A37F0F7-6E65-412F-ABA6-E32D0B7E71D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7764D7B1-4060-49A4-9B96-0E6E8C739F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7764D7B1-4060-49A4-9B96-0E6E8C739F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7764D7B1-4060-49A4-9B96-0E6E8C739F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7764D7B1-4060-49A4-9B96-0E6E8C739F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF2EAEF-5B9A-4C4D-ACAC-05299E925868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF2EAEF-5B9A-4C4D-ACAC-05299E925868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF2EAEF-5B9A-4C4D-ACAC-05299E925868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF2EAEF-5B9A-4C4D-ACAC-05299E925868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4495265-218B-4E78-BEDD-507E8BB2B7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4495265-218B-4E78-BEDD-507E8BB2B7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4495265-218B-4E78-BEDD-507E8BB2B7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4495265-218B-4E78-BEDD-507E8BB2B7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBDEFDA-1409-45CB-A97B-89C0B00D3FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBDEFDA-1409-45CB-A97B-89C0B00D3FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBDEFDA-1409-45CB-A97B-89C0B00D3FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBDEFDA-1409-45CB-A97B-89C0B00D3FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AE9425-193C-4524-87E2-77E47494CB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AE9425-193C-4524-87E2-77E47494CB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AE9425-193C-4524-87E2-77E47494CB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AE9425-193C-4524-87E2-77E47494CB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A37F0F7-6E65-412F-ABA6-E32D0B7E71D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A37F0F7-6E65-412F-ABA6-E32D0B7E71D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A37F0F7-6E65-412F-ABA6-E32D0B7E71D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A37F0F7-6E65-412F-ABA6-E32D0B7E71D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85D3740-7CD7-4A3F-826C-54CF5FCA2655}
+	EndGlobalSection
+EndGlobal

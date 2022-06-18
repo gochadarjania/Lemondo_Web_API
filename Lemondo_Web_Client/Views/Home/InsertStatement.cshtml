@@ -1,0 +1,28 @@
+﻿@using Lemondo_Web_Client.Service
+@model StatementDTO
+@{
+    ViewData["Title"] = "Add Statement";
+}
+<div class="col-md-8">
+    <form asp-action="AddStatement" class="row g-3 needs-validation" enctype="multipart/form-data">
+        <div class="col-md-4">
+            <label asp-for="Title" class="form-label">Tile</label>
+            <input asp-for="Title" type="text" class="form-control" placeholder="Enter Tile" required>
+        </div>
+
+            <input type="file" id="file1" name="file1" multiple="multiple" />
+
+        <div class="col-md-4">
+            <label asp-for="StatementDetail.Description" class="form-label">Description</label>
+            <textarea asp-for="StatementDetail.Description" placeholder="Description"></textarea>
+        </div>
+        <div class="col-md-4">
+            <label asp-for="StatementDetail.PhoneNumber" class="form-label">Phone Number</label>
+            <input asp-for="StatementDetail.PhoneNumber" type="text" class="form-control" placeholder="Number" required>
+        </div>
+        <div class="col-12">
+            <button class="btn btn-primary" type="submit">Add</button>
+        </div>
+
+    </form>
+</div>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrSllkdlpplkNaF24Gd5BJ709pk6rK9Wp3oVsEl9FgSg1DYzg6p+tEg1gypQY+n6wTokXV5vpjVvJVevU83j0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Lemondo_Web_API\\Lemondo_Web_API.Domain\\Lemondo_Web_API.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
